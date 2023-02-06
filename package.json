@@ -1,5 +1,5 @@
 {
-  "name": "evo-wallet-adapter",
+  "name": "@evo-wallet/wallet-adapter",
   "version": "0.1.0",
   "description": "EVO plugin to use with Aptos Wallet Adapter",
   "author": "EVO wallet team",
