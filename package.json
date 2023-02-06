@@ -1,8 +1,8 @@
 {
-  "name": "wallet-adapter-plugin-template",
+  "name": "evo-wallet-adapter",
   "version": "0.1.0",
-  "description": "Adapter template plugin to use with Aptos Wallet Adapter",
-  "author": "Aptos",
+  "description": "EVO plugin to use with Aptos Wallet Adapter",
+  "author": "EVO wallet team",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
